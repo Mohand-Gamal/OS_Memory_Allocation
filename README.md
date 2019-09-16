@@ -23,3 +23,5 @@
 
 ## Output:
 Your output is a drawing representing memory allocation as shown in below figure 
+
+![Unbenannt](https://user-images.githubusercontent.com/36271119/64930512-c0229600-d831-11e9-96c1-47cdcd653c90.JPG)
